@@ -1,4 +1,4 @@
-# Tally AI Lambda Labs19 Starter Files 
+# Tally AI, A Business Intelligence Dashboard
 
 These files are based on the collaborative efforts of Alfredo Quintana, Andrew Allen, Anthony Piazza, Arvin Agas, Enrique Collado, Kevona Webb, Kemberly Eliscar, Lily Su, Melissa Kemp, Obaida Albaroudi and Richany Nguon with guidance from Crawford Collins as a Project Manager from Better Business by Review buildweek. The front-end was never hooked up with the backend, so the finalized version only has login authentification and a homepage: https://business-recommendation.netlify.com/index.html
 
