@@ -5,7 +5,7 @@ Click==7.0
 collapsing-thread-pool-executor==2018.6
 cycler==0.10.0
 cymem==2.0.2
-Django==2.1.1
+Django==2.2.13
 djangorestframework==3.11.0
 idna==2.8
 itsdangerous==1.1.0
