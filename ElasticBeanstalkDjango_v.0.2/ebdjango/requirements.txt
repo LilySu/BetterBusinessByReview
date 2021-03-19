@@ -6,7 +6,7 @@ collapsing-thread-pool-executor==2018.6
 cycler==0.10.0
 cymem==2.0.2
 Django==2.1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
